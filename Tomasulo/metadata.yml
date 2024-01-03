@@ -1,0 +1,12 @@
+---
+:id: 221136971
+:submitters:
+- :name: Leshan Wang
+  :email: lw3423@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-12-20 01:12:18.522304000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-12-19 17:12:18.522304000 Z
+:status: processed
+:score: 10.0
